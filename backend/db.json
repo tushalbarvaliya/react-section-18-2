@@ -1,6 +1,27 @@
 {
   "opinions": [
     {
+      "id": 1770276238593,
+      "votes": 0,
+      "userName": "khushi",
+      "title": "i not like my brother",
+      "body": "my brother is very cool "
+    },
+    {
+      "id": 1770276183604,
+      "votes": 0,
+      "userName": "tushal",
+      "title": "i like food",
+      "body": "this isnjlnl djv;knk"
+    },
+    {
+      "id": 1770275934235,
+      "votes": 0,
+      "userName": "tushal",
+      "title": "react",
+      "body": "this is a js library which is very useful more web and mobile applications"
+    },
+    {
       "id": 1,
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
